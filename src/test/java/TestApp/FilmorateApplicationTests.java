@@ -1,0 +1,6 @@
+package TestApp;
+
+
+class FilmorateApplicationTests {
+
+}
